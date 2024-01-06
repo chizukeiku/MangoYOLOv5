@@ -1,4 +1,4 @@
-## <div align="center">Mango Detection with YOLOv5</div>
+## <div align="center">Mango Detection using YOLOv5</div>
 
 <div align="center">
     <a href="https://colab.research.google.com/github/chizukeiku/MangoYOLOv5/blob/master/MangoDetectionYOLOv5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
@@ -6,9 +6,12 @@
 
 YOLOv5 is the most popular vision AI from <a href="https://ultralytics.com">Ultralytics</a>. Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> for details, raise an issue on <a href="https://github.com/ultralytics/yolov5/issues/new/choose">GitHub</a> for support, and join <a href="https://ultralytics.com/discord">Discord</a> community.
 
+This project was part of my internship project during my study. Object detection model used was YOLOv5s to speed training process. Training images acquired from <a href="https://researchdata.edu.au/mangoyolo-set/1697505">MangoYOLO</a> Dataset. 
+
 **How to Detect Mango:**
 <br>
-1. 
+1. Open colab MangoDetectionYOLOv5.ipynb
+2. Change source file path
 </div>
 </br>
 
