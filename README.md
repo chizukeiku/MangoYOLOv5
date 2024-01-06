@@ -15,6 +15,24 @@ This project was part of my internship project during my study. Object detection
 </div>
 </br>
 
+## <div align="center">Results</div>
+
+YOLOv5 was able to detect mango. Some mango might not be detected due to low training image, pretrained model used, and high confidence threshold. Improvement could be made by changing those arrangement for future work.
+<p align="center"><img width="240" src="detected_mango/mango (1).jpg"> <img width="240" src="detected_mango/mango (2).jpg"> <img width="240" src="detected_mango/mango (3).jpg"></p>
+
+### Evaluation
+
+| Evaluation Metrics   | Value |
+|----------------------|-------|
+| Epoch                | 34    |
+| mAP<sup>val<br>50    | 0,989 |
+| mAP<sup>val<br>50-95 | 0,716 |
+| Precision            | 0,977 |
+| Recall               | 0,950 |
+
+<p align="center"><img width="400" src="mango/P_curve.png"> <img width="400" src="mango/R_curve.png"></p>
+<p align="center"><img width="400" src="mango/PR_curve.png"></p>
+
 ## <div align="center">Why YOLOv5</div>
 
 YOLOv5 has been designed to be super easy to get started and simple to learn. We prioritize real-world results.
