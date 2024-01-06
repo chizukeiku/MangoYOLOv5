@@ -4,7 +4,7 @@
     <a href="https://colab.research.google.com/github/chizukeiku/MangoYOLOv5/blob/master/MangoDetectionYOLOv5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   </div>
 
-YOLOv5 is the most popular vision AI from <a href="https://ultralytics.com">Ultralytics</a>. Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> for details, raise an issue on <a href="https://github.com/ultralytics/yolov5/issues/new/choose">GitHub</a> for support, and join <a href="https://ultralytics.com/discord">Discord</a> community.
+YOLOv5 is the most popular vision AI from <a href="https://ultralytics.com">Ultralytics</a>. Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> for details, raise an issue on <a href="https://github.com/ultralytics/yolov5/issues/new/choose">GitHub</a> for support, and join Ultralytics <a href="https://ultralytics.com/discord">Discord</a> community.
 
 This project was part of my internship project during my study. Object detection model used was YOLOv5s to speed training process. Training images acquired from <a href="https://researchdata.edu.au/mangoyolo-set/1697505">MangoYOLO</a> Dataset. 
 
@@ -63,5 +63,5 @@ YOLOv5 has been designed to be super easy to get started and simple to learn. We
 
 
 ## <div>Reference</div>
-Glenn Jocher, Ayush Chaurasia, Alex Stoken, Jirka Borovec, NanoCode012, Yonghye Kwon, Kalen Michael, TaoXie, Jiacong Fang, imyhxy, Lorna, 曾逸夫(Zeng Yifu), Colin Wong, Abhiram V, Diego Montes, Zhiqiang Wang, Cristi Fati, Jebastin Nadar, Laughing, … Mrinal Jain. (2022). ultralytics/yolov5: v7.0 - YOLOv5 SOTA Realtime Instance Segmentation (v7.0). Zenodo. https://doi.org/10.5281/zenodo.7347926
-Koirala, Anand; Walsh, Kerry; Wang, Z; McCarthy, C (2019). MangoYOLO data set. CQUniversity. Dataset. https://hdl.handle.net/10018/1261224
+- Glenn Jocher, Ayush Chaurasia, Alex Stoken, Jirka Borovec, NanoCode012, Yonghye Kwon, Kalen Michael, TaoXie, Jiacong Fang, imyhxy, Lorna, 曾逸夫(Zeng Yifu), Colin Wong, Abhiram V, Diego Montes, Zhiqiang Wang, Cristi Fati, Jebastin Nadar, Laughing, … Mrinal Jain. (2022). ultralytics/yolov5: v7.0 - YOLOv5 SOTA Realtime Instance Segmentation (v7.0). Zenodo. https://doi.org/10.5281/zenodo.7347926
+- Koirala, Anand; Walsh, Kerry; Wang, Z; McCarthy, C (2019). MangoYOLO data set. CQUniversity. Dataset. https://hdl.handle.net/10018/1261224
